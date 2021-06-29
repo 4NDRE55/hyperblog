@@ -1,0 +1,45 @@
+body
+{text-align: center;
+font-family: "Arial";
+font-size: 16px;
+color: #333
+
+}
+
+#container 
+{ width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin:0 auto;
+    font-size: 20px;
+}
+#cabecera
+{
+    background:#33A;    
+    box-shadow: 0 5px 30px 0px rgba(red, green, blue, alpha);
+    color:white;
+    font-weight:bold;
+    margin:0;
+    padding: 0.5em;
+}
+
+
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: .8em;
+}
+
+#container h1
+{
+font-size: 20px;
+
+}
+
+#post
+{
+    padding: 1em;
+}
